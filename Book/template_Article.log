@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.26)  3 OCT 2022 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.26)  9 OCT 2022 16:16
 entering extended mode
 **./template_Article.tex
 (template_Article.tex
@@ -500,11 +500,85 @@ File: tikzlibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 aryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 )))
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks33
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen266
+))
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen267
+)
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count279
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count280
+\leftroot@=\count281
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count282
+\DOTSCASE@=\count283
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count284
+\c@MaxMatrixCols=\count285
+\dotsspace@=\muskip16
+\c@parentequation=\count286
+\dspbrk@lvl=\count287
+\tag@help=\toks35
+\row@=\count288
+\column@=\count289
+\maxfields@=\count290
+\andhelp@=\toks36
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks37
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
 (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count279
-\l__pdf_internal_box=\box60
+\l__kernel_color_stack_int=\count291
+\l__pdf_internal_box=\box62
 )
 
 LaTeX Warning: Unused global option(s):
@@ -514,41 +588,76 @@ LaTeX Warning: Unused global option(s):
 (capitolo_Due.aux))
 \openout1 = `template_Article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen266
-\scratchbox=\box61
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen267
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count292
+\scratchdimen=\dimen275
+\scratchbox=\box63
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen276
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
@@ -567,36 +676,27 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
 
 
 ]) (template_Article.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(C:\Users\lyoko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `template_Article.toc'.
 
- [1
+
+[1
 
 
 ]
 \openout2 = `capitolo_Uno.aux'.
 
  (capitolo_Uno.tex
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.1 \section{L'Equazione Logistica}
-                                   
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
@@ -606,51 +706,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
+
+Overfull \hbox (30.80475pt too wide) in paragraph at lines 21--21
+ []|\OT1/cmr/bx/n/10.95 Una 
+ []
+
+
+Overfull \hbox (57.91495pt too wide) in paragraph at lines 21--21
+ \OT1/cmr/bx/n/10.95 soluzione 
+ []
+
+
+Overfull \hbox (52.843pt too wide) in paragraph at lines 21--21
+ \OT1/cmr/bx/n/10.95 es-plicita| 
+ []
+
 ) [2
 
 ]
 \openout2 = `capitolo_Due.aux'.
 
- (capitolo_Due.tex
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.1 ...Le immagini e altri elementi del documento}
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-) [3
+ (capitolo_Due.tex) [3
 
 
 
-] (template_Article.aux (title.aux) (abstract.aux) (capitolo_Uno.aux)
-(capitolo_Due.aux)) ) 
+] (template_Article.bbl) [4
+
+
+] (template_Article.aux
+(title.aux) (abstract.aux) (capitolo_Uno.aux) (capitolo_Due.aux)) ) 
 Here is how much of TeX's memory you used:
- 22193 strings out of 479697
- 595422 string characters out of 2867132
- 1070682 words of memory out of 3000000
- 38948 multiletter control sequences out of 15000+200000
- 409241 words of font info for 46 fonts, out of 3000000 for 9000
+ 23858 strings out of 479697
+ 617845 string characters out of 2867132
+ 1092702 words of memory out of 3000000
+ 40535 multiletter control sequences out of 15000+200000
+ 411848 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,9n,98p,715b,1959s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\lyoko\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\tcrm1095.pk><C:/Users/lyoko/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/lyoko/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lyoko/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lyoko/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/lyoko/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-C:/Users/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y10.pfb>
-Output written on template_Article.pdf (5 pages, 91542 bytes).
+ <C:\Users\l
+yoko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Us
+ers/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><C:/Users/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/lyoko/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><C:/Users/lyoko/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lyoko/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lyoko/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lyoko/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/lyoko/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on template_Article.pdf (6 pages, 115270 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

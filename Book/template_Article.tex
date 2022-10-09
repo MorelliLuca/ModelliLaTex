@@ -5,15 +5,33 @@
 \usepackage{titlesec}
 
 \usepackage{pgfplots}
- 
+
 \pgfplotsset{compat=1.17}
+
+\usepackage[none]{hyphenat}
+
+\usepackage{amssymb}
+
+\usepackage{amsmath}
+
+
 
 \titleformat{\section}[display]
 {\raggedleft\bfseries\LARGE\narrower\narrower}
 {\raggedleft\Huge\normalfont\textbf{{\rlap{ \resizebox{!}{1.2cm}{\thesection} \textcolor{blue}{\rule{17cm}{1.2cm}}} }}}
-{0}{}
+{0pt}{}
+
+\titleformat{\paragraph}[margin]
+{\filleft\bfseries\narrower\narrower}
+{\thesection }
+{0.5em}{}
+
+
+\titlespacing{\paragraph}
+{5pc}{1.5ex plus .1ex minus .2ex}{1pc}
 
 \renewcommand*\contentsname{Contenuti}
+\renewcommand*\refname{Bibliografia}
 
 \begin{document}
 
@@ -27,7 +45,7 @@
 
 \include{capitolo_Due.tex}
 
-
-
+\bibliographystyle{plain}
+\bibliography{ref}
 
 \end{document}
